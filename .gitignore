@@ -1,0 +1,8 @@
+node_modules
+build
+npm-debug.log
+config
+.DS_Store
+
+package-lock.json
+.npmrc
